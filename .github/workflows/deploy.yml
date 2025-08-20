@@ -39,6 +39,6 @@ jobs:
         with:
           project: "boltdiy-denno"
           entrypoint: "index.js"
-          root: "build/client"
+          root: ""
           
           
