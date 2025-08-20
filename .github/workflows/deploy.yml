@@ -39,6 +39,6 @@ jobs:
         with:
           project: "boltdiy-denno"
           entrypoint: "https://deno.land/std@0.217.0/http/file_server.ts"
-          root: "build/client"
+          root: "dist"
           
           
